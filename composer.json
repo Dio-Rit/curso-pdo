@@ -1,0 +1,15 @@
+{
+    "name": "Alura/Pdo",
+    "autoload": {
+        "psr-4": {
+            "Alura\\Pdo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dio-Rit",
+            "email": "dionatan.ritter@universo.univates.br"
+        }
+    ],
+    "require": {}
+}
